@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=500&color=833ab4&center=true&vCenter=true&width=800&lines=Aradhya+Ray+-+AIML+Enthusiast;Full-Stack+Developer;Game+Dev+Explorer;Crafting+Code+with+Intelligence+and+Imagination" />
 </p>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="165">
+
 <h3 align="center">
 🌍 Hello World, meet Code & Curiosity ! 
 </h3>
@@ -11,6 +13,7 @@ Currently pursuing **B.Tech in CSE (AIML) at The Neotia University**, I love exp
 ---
 
 ## ⚙️Tech Stack & Specializations 
+
 
 ### 🖥️ Programming Languages  
 
@@ -156,10 +159,11 @@ Currently pursuing **B.Tech in CSE (AIML) at The Neotia University**, I love exp
 ## 📈 GitHub Stats  
 
 <div align="center">
-
+  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AradhyaRay05&show_icons=true&theme=tokyonight&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AradhyaRay05&layout=compact&theme=tokyonight)  
-<img src="https://komarev.com/ghpvc/?username=AradhyaRay05&label=Profile%20views&color=0e75b6&style=flat" alt="AradhyaRay05" />
+<img src="https://komarev.com/ghpvc/?username=AradhyaRay05&label=Profile%20views&color=0e75b6&style=flat" alt="AradhyaRay05"/>
+
 </div>
 
 ---
