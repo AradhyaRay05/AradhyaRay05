@@ -185,5 +185,3 @@ Currently pursuing **B.Tech in CSE (AIML) at The Neotia University**, I love exp
 ---
 
 Thanks for visiting my profile! Feel free to explore my repositories and connect with me. 🚀
-
-![Visitor Count](https://komarev.com/ghpvc/?username=AradhyaRay05&color=green)
