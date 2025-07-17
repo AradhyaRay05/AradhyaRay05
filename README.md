@@ -108,6 +108,7 @@ Currently pursuing **B.Tech in CSE (AIML) at The Neotia University**, I love exp
 </p>
 
 ---
+
 ### 📊 Machine Learning & Deep Learning  
 
 <p align="center">
@@ -125,6 +126,7 @@ Currently pursuing **B.Tech in CSE (AIML) at The Neotia University**, I love exp
 </p>
 
 ---
+
 ### ☁️ Databases & Cloud  
 
 <table align="center" style="border: 2px solid #ccc; border-collapse: collapse;">
@@ -149,7 +151,6 @@ Currently pursuing **B.Tech in CSE (AIML) at The Neotia University**, I love exp
     </td>
   </tr>
 </table>
-
 
 ---
 
