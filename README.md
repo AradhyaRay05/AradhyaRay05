@@ -14,7 +14,6 @@ Currently pursuing **B.Tech in CSE (AIML) at The Neotia University**, I love exp
 
 ## ⚙️Tech Stack & Specializations 
 
-
 ### 🖥️ Programming Languages  
 
 <table align="center" style="border: 2px solid #ccc; border-collapse: collapse;">
