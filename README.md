@@ -158,15 +158,14 @@ Currently pursuing **B.Tech in CSE (AIML) at The Neotia University**, I love exp
 ## 📈 GitHub Stats  
 
 <div align="center">
+    <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AradhyaRay05&theme=radical" alt="GitHub Streak"/>
 
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=AradhyaRay05&show_icons=true&theme=radical" alt="Aradhya Ray's GitHub stats"/>
 
-  <!-- Top Languages -->
+    <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradhyaRay05&layout=compact&theme=tokyonight" alt="Top Languages"/>
-
-  <!-- GitHub Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AradhyaRay05&theme=radical" alt="GitHub Streak"/>
 
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=AradhyaRay05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
