@@ -171,14 +171,9 @@ Currently pursuing **B.Tech in CSE (AIML) at The Neotia University**, I love exp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AradhyaRay05&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <br><br>
 
-</div>
-
-<!-- Profile Views badge aligned to the right -->
-<div align="right">
   <img src="https://komarev.com/ghpvc/?username=AradhyaRay05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+  
 </div>
-
-
 
 ---
 
