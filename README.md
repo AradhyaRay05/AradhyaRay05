@@ -159,7 +159,7 @@ Currently pursuing **B.Tech in CSE (AIML) at The Neotia University**, I love exp
 
 <div align="center">
 
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=AradhyaRay05&theme=radical" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=AradhyaRay05&theme=radical" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=AradhyaRay05&show_icons=true&theme=radical" alt="Aradhya's GitHub stats"/>
   <br>
