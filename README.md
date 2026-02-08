@@ -8,7 +8,7 @@
 </h3>
 
 I'm **Aradhya Ray**, an aspiring **AI/ML Engineer** and passionate **Full-Stack & Game Developer** with a knack for building both intelligent and immersive experiences.
-Currently pursuing **B.Tech in CSE (AIML) at The Neotia University**, I love exploring the synergy between **Artificial Intelligence, Web Technologies, and Creative Game Design**.
+Currently pursuing **B.Tech in CSE (AIML) at The Neotia University**, I love exploring the synergy between **Artificial Intelligence and Web Technologies**.
 
 ---
 
