@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=500&color=833ab4&center=true&vCenter=true&width=800&lines=Aradhya+Ray+-+AIML+Enthusiast;Full-Stack+Developer;Game+Dev+Explorer;Crafting+Code+with+Intelligence+and+Imagination" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=500&color=833ab4&center=true&vCenter=true&width=800&lines=Aradhya+Ray+-+AIML+Enthusiast;Full-Stack+Developer;Crafting+Code+with+Intelligence+and+Imagination" />
 </p>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="165">
 
