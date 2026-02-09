@@ -89,9 +89,6 @@ Currently pursuing **B.Tech in CSE (AIML) at The Neotia University**, I love exp
       <img src="https://skillicons.dev/icons?i=flask" height="40"/><br><strong>Flask</strong>
     </td>
     <td align="center" style="border: 2px solid #ccc; padding: 10px;">
-      <img src="https://skillicons.dev/icons?i=spring" height="40"/><br><strong>Spring Boot</strong>
-    </td>
-    <td align="center" style="border: 2px solid #ccc; padding: 10px;">
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" height="28"/><br><strong>Django</strong>
     </td>
   </tr>
